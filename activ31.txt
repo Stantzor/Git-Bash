@@ -1,3 +1,9 @@
 Primera linea archivo31.txt
 Segunda linea activ31, antes me he confundido
+<<<<<<< HEAD
 Añado linea a activ31.txt desde rama master
+=======
+Añado la tercera linea a activ31.txt
+Añado una cuarta linea a activ31.txt
+Quinta y ultima linea añadida a activ31.txt desde branch actividad3
+>>>>>>> actividad3
