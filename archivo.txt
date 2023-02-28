@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Creo archivo en rama master
+=======
+Creo archivo en pruebas2
+Otro mensaje desde pruebas2
+>>>>>>> pruebas2
